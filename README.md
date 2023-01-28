@@ -6,8 +6,8 @@
 ## Jenkins installation manual (Ubuntu)
 
 **Step 1** Open your internet browser (Brave, FireFox, Chrome, etc.) <br>
-** Step 2 ** Type in address bar the string like this "install jenkins ubuntu" <br>
-** Step 3 ** As an example it could be: <br> https://www.jenkins.io/doc/book/installing/ <br>
+**Step 2** Type in address bar the string like this "install jenkins ubuntu" <br>
+**Step 3** As an example it could be: <br> https://www.jenkins.io/doc/book/installing/ <br>
 
 **Step 5**
 <br>
