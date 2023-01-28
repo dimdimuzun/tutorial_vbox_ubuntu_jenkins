@@ -1,7 +1,7 @@
 # tutorial_vbox_ubuntu_jenkins
 
 ## Preparing Environment for Jenkins CI/CD pipeline
-** Step 1 ** Create 3 VirtualBox  Virtual Mashines with Ubuntu (18,20,22) <br>
+** Step 1 ** Create 3 VirtualBox  Virtual Mashines with Ubuntu LTS (18,20,22) <br>
 
 ## Jenkins installation manual (Ubuntu)
 
