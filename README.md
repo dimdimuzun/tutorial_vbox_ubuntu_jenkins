@@ -2,7 +2,7 @@
 
 ## Preparing Environment for Jenkins CI/CD pipeline
 **Step 1** Check for virtualisation availability (could be found in BIOS, accessable during OS booting) <br>
-**Step 2** Check for enabled hypervisors, like *HyperV* or *WSL* for Windows, disable it <br>
+**Step 2** Check for enabled windows components (hypervisors), like *HyperV*, *WSL* or *Virtual Machine Platform* for Windows, disable it <br>
 **Step 3** Download and install VirtualBox v6 and above <br>
 **Step 4** Download ISO image of Ubuntu server  18, 20, 22 LTS and create VirtualMachine using VirtualBox <br> 
 **Step 5** Make two clones of created virtual machine with names like *JenkinsMaster*, *JenkinsNode*, *DeployServer* <br>
