@@ -15,7 +15,7 @@
 **Step 1** Open your internet browser (Brave, FireFox, Chrome, etc.) <br>
 **Step 2** Type in address bar the string like this "install jenkins ubuntu" <br>
 **Step 3** As an example it could be: <br> https://www.jenkins.io/doc/book/installing/ <br>
-
+![How it looks like](./src/install_jenkins_ubuntu.png "Jenkins instrallation page screenshot") <br>
 **Step 5**
 <br>
 **Step 6**
